@@ -27,4 +27,3 @@ Ademas tengo pequeñas pymes en las cuales actualizo su obtencion de datos y gen
 - Adaptabilidad
 - Proactivo
 
-[Linkedin](www.linkedin.com/in/casaux-agustin-analistadedatosjr)
