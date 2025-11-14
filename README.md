@@ -13,7 +13,10 @@ Para la segunda etapa del proyecto cree la base de datos utilizando codigo de SQ
 para una mejor organizacion. A estos procesos los guarde en scrips sql, para poder revisarlos cada vez que los necesite. Por ultimo genere un backup con todos los datos por cualquier error
 que pueda ocurrir.
 
-En la tercera etapa comenze a utilizar "PowerBi". Primero enlace el servidor de MySql workbench para obtener los datos y empezar con el dashboard.
+En la tercera etapa comenze a utilizar "PowerBi". Primero enlace el servidor de MySql workbench para obtener los datos y empezar con el dashboard. Comproque que este bien el diagrama en la aplicacion y luego genere
+dos tablas mas en "PowerQuery", una para las imagenes de cada warframe y otra para el logo.
+Por ultimo genere un dashboard de prueba que al final descarte y me quede con el segundo dashboard que hice.
+Poniendo datos como: Selector de personaje, foto del personaje, habilidades de cada uno, ventas realizadas por paquete, el logo y por ultimo las estadisticas del personaje.
 
 ### Habilidades tecnicas utilizadas
 - MySql Workbench
